@@ -24,10 +24,8 @@ for i in df.index:
         h += m
         v += aim * m
     elif df.loc[i,"Direction"] == "down":
-        # v += m
         aim += m
     elif df.loc[i,"Direction"] == "up":
-        # v -= m
         aim -= m
 
 print(h,v,h*v)
