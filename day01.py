@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-df = pd.read_csv("day01.txt", header=None)
+df = pd.read_csv("input_files/day01.txt", header=None)
 
 # part 1, count numbef of times it changes.
 print(np.sum(df.diff() > 0))

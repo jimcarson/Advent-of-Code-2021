@@ -1,5 +1,5 @@
 import pandas as pd
-df= pd.read_csv("day02.test.txt", sep=" ", header=None)
+df= pd.read_csv("input_files/day02.txt", sep=" ", header=None)
 df.columns = ["Direction","Magnitude"]
 h = 0
 v = 0

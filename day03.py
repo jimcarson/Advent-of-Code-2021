@@ -35,7 +35,7 @@ def reduce_list(s,bit,value):
             c.append(i)
     return(c)
 
-with open("day03.txt","r") as fp:
+with open("input_files/day03.txt","r") as fp:
     d = fp.read()
 l = d.split()
 bitlength = len(l[0])
