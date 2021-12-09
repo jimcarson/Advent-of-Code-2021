@@ -130,3 +130,6 @@ dmypy.json
 # vim turds
 *.swo
 *.swp
+
+# scratchpad
+foo*
