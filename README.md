@@ -11,3 +11,5 @@ https://adventofcode.com
 * [Day 07: The Treachery of Whales](day07.ipynb) - optimization problem
 * [Day 08: Seven Segment Search](day08.ipynb) - deduce numbers based on inputs
 * [Day 09: Smoke Basin](day09.ipynb) - find low points, brain hurt.  Hat tip to RojerGS for the clarified thinking on basin traversal
+* [Day 10: Syntax Scoring](day10.ipynb) - find syntax and correctable scores
+* [Day 11: Dumbo Octopus](day11.ipynb) - find synchronization point
