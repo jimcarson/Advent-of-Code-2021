@@ -14,3 +14,4 @@ https://adventofcode.com
 * [Day 10: Syntax Scoring](day10.ipynb) - find syntax and correctable scores
 * [Day 11: Dumbo Octopus](day11.ipynb) - find synchronization point
 * [Day 12: Passage Pathing](day12.ipynb) - Traverse undirected graph
+* [Day 13: Transparent Origami](day13.ipynb) - matrix mapping
