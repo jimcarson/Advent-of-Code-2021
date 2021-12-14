@@ -1,0 +1,6 @@
+NN
+
+NN -> S
+NS -> S
+SN -> S
+SS -> S
