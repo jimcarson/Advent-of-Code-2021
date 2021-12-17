@@ -18,4 +18,4 @@ https://adventofcode.com
 * [Day 14: Extended Polymerization](day14.ipynb) - Another exponential
 * [Day 15: Chiton](day15.ipynb) - Djikstra's algorithm
 * [Day 16: Packet Decoder](day16.ipynb) - 
-* [Day 17: Trick Shot](day17.ipynb) - Another exponential
+* [Day 17: Trick Shot](day17.ipynb) - 
