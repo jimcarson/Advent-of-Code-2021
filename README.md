@@ -16,3 +16,6 @@ https://adventofcode.com
 * [Day 12: Passage Pathing](day12.ipynb) - Traverse undirected graph
 * [Day 13: Transparent Origami](day13.ipynb) - matrix mapping
 * [Day 14: Extended Polymerization](day14.ipynb) - Another exponential
+* [Day 15: Chiton](day15.ipynb) - Djikstra's algorithm
+* [Day 16: Packet Decoder](day16.ipynb) - 
+* [Day 17: Trick Shot](day17.ipynb) - Another exponential
