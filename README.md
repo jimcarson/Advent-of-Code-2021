@@ -19,4 +19,5 @@ https://adventofcode.com
 * [Day 15: Chiton](day15.ipynb) - Djikstra's algorithm
 * [Day 16: Packet Decoder](day16.ipynb) - 
 * [Day 17: Trick Shot](day17.ipynb) - Like the old Apple ][ game
-* [Day 18: Snailfish](day18.ipynb) - my brain really hurts now
+* [Day 18: Snailfish](day18.ipynb) - [[my, [brain,really]],[hurts,now]]
+* [Day 19: Beacon Scanner](day19.ipynb) - 
