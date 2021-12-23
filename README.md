@@ -23,3 +23,5 @@ https://adventofcode.com
 * [Day 19: Beacon Scanner](day19.ipynb) - Scanners and Beacons, lots of math
 * [Day 20: Trench Map](day20.ipynb) - Enhancing image, rewrote as a class
 * [Day 21: Dirac Dice](day21.ipynb) - Quantum / deterministic numbers
+* [Day 22: Reactor ](day22.ipynb) - compression of coordinates
+* [Day 23: Amphipod ](day23.ipynb) - 
