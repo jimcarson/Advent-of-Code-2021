@@ -26,3 +26,4 @@ https://adventofcode.com
 * [Day 22: Reactor ](day22.ipynb) - compression of coordinates
 * [Day 23: Amphipod ](day23.ipynb) - 
 * [Day 24: Arithmetic Logic Unit ](day24.ipynb) - always look inside the magic box
+* [Day 25: Sea Cucumbers](day25.ipynb) - similar to prior day
