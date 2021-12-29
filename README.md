@@ -1,6 +1,6 @@
-###Advent of Code 2021 ###
+##Advent of Code 2021 ##
 
-https://adventofcode.com
+Problem descriptions are on the [Advent of Code website](https://adventofcode.com).  
 
 * [Day 01: Sonar Sweep](day01.py) - rolling average
 * [Day 02: Dive!](day02.py)
@@ -17,13 +17,13 @@ https://adventofcode.com
 * [Day 13: Transparent Origami](day13.ipynb) - matrix mapping
 * [Day 14: Extended Polymerization](day14.ipynb) - Another exponential
 * [Day 15: Chiton](day15.ipynb) - Djikstra's algorithm
-* [Day 16: Packet Decoder](day16.ipynb) - 
+* [Day 16: Packet Decoder](day16.ipynb) - bitfield unpacking
 * [Day 17: Trick Shot](day17.ipynb) - Like the old Apple ][ game
 * [Day 18: Snailfish](day18.ipynb) - [[my, [brain,really]],[hurts,now]]
 * [Day 19: Beacon Scanner](day19.ipynb) - Scanners and Beacons, lots of math
 * [Day 20: Trench Map](day20.ipynb) - Enhancing image, rewrote as a class
 * [Day 21: Dirac Dice](day21.ipynb) - Quantum / deterministic numbers
 * [Day 22: Reactor ](day22.ipynb) - compression of coordinates
-* [Day 23: Amphipod ](day23.ipynb) - 
-* [Day 24: Arithmetic Logic Unit ](day24.ipynb) - always look inside the magic box
+* [Day 23: Amphipod ](day23.ipynb) - I did this one via pen-and-paper.
+* [Day 24: Arithmetic Logic Unit ](day24.ipynb) - always look inside the magic box.  There is an [Excel file](day24.xlsx) for analyzing the instruction set
 * [Day 25: Sea Cucumbers](day25.ipynb) - similar to prior day
